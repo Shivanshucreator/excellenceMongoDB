@@ -1,0 +1,2 @@
+# excellenceMongoDB
+mongoDB api queries
